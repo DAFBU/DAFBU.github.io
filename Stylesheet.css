@@ -12,4 +12,5 @@ background-color: black;
 ul {
 	list-style-type: none;
 	background: lightgray;
+	width: 100px;
 }
