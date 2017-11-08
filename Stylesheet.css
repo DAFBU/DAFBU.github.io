@@ -18,6 +18,8 @@ ul {
 li a {
 	display: block;  /*Make the link use the whole width*/
 	text-align: center;
+	text-decoration: none;
+	color: black;
 }
 li a:hover {
 	background: grey;
