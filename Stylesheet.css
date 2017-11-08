@@ -10,13 +10,13 @@ body {
 background-color: black;
 }
 ul {
-	list-style-type: none;
+	list-style-type: none;  /*Remove bullets*/
 	background: lightgray;
 	width: 200px;
-	padding: 0;
+	padding: 0;  /*Removes left padding from list*/
 }
 li a {
-	display: block;
+	display: block;  /*Make the link use the whole width*/
 	text-align: center;
 }
 li a:hover {
