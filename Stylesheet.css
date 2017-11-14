@@ -12,7 +12,7 @@ body {
 }
 ul {
 	list-style-type: none;  /*Remove bullets*/
-	background: blue;
+	background: aqua;
 	width: 200px;
 	padding: 0;  /*Removes left padding from list*/
 	margin: 0;
