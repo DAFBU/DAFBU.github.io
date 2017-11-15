@@ -18,13 +18,13 @@ ul {
 	margin: 0;
 	text-align: center;
 }
-li a {
+a {
 	display: block;  /*Make the link use the whole width*/
 	text-align: center;
 	text-decoration: none;
 	color: black;
 	padding: 10px;
 }
-li a:hover {
+a:hover {
 	background: grey;
 }
