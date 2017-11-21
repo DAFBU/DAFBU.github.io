@@ -10,9 +10,6 @@ p {
 body {
 	background-color: ghostwhite;
 	margin: 0;
-	background-image: url("http://www.creativecan.com/wp-content/uploads/2012/10/rainbow-grunge-paper-texture_thumb.jpg");
-	background-position: center;
-	background-size: cover;
 }
 a {
 	display: block;  /*Make the link use the whole width*/
