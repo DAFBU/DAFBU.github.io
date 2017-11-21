@@ -9,6 +9,9 @@ p {
 body {
 	background-color: ghostwhite;
 	margin: 0;
+	background-image: url("https://i.pinimg.com/originals/bc/43/dc/bc43dc9c70eb14a8e426ea66d4093692.jpg");
+	background-position: center center;
+	background-size: cover;
 }
 a {
 	display: block;  /*Make the link use the whole width*/
